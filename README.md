@@ -1,14 +1,14 @@
 # Calcore (Not Finish)
 - ENGLISH
   - [License](##1/License-ENGLISH)
-    - [You Can](###You-can:)
-    - [You Can't](###You-can't:)
-  - [Introduction](##2/Introduction)
-    - [LA](###LexAnalysis)
-    - [Check Tokens](###INVALID-tokens-to-Calc-Report)
-    - [Calculate](###Calculate)
+    - [You Can](###you-can:)
+    - [You Can't](###you-can't:)
+  - [Introduction](##2/introduction)
+    - [LA](###lexanalysis)
+    - [Check Tokens](###invalid-tokens-to-calc-report)
+    - [Calculate](###calculate)
   - [Builds](##3/Builds)
-    - [Build 1](###Build-1)
+    - [Build 1](###build-1)
     
 **A Calculator Core **
 **一个计算器核心（练习，允许改善）**
