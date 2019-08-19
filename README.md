@@ -1,19 +1,19 @@
 # Calcore (Not Finish)
 - ENGLISH
-  - [License](##1/license-english)
-    - [You Can](###you-can)
-    - [You Can't](###you-cannot)
-  - [Introduction](##2/introduction)
-    - [LA](###lexanalysis)
-    - [Check Tokens](###invalid-tokens-to-calc-report)
-    - [Calculate](###calculate)
-  - [Builds](##3/Builds)
-    - [Build 1](###build-1)
+  - [License](#license-english)
+    - [You Can](#you-can)
+    - [You Can't](#you-cannot)
+  - [Introduction](#introduction)
+    - [LA](#lexanalysis)
+    - [Check Tokens](#invalid-tokens-to-calc-report)
+    - [Calculate](#calculate)
+  - [Builds](#Builds)
+    - [Build 1](#build-1)
     
 **A Calculator Core **
 **一个计算器核心（练习，允许改善）**
   
-## 1/License ENGLISH
+## License ENGLISH
 Apache License 2.0  
 For more information,please see LICENSE.
 ### You can
@@ -28,7 +28,7 @@ For more information,please see LICENSE.
   publish Without Copyright Clarify:original source copyright belongs to TinxG and other author(contributor)  
   publish Without Calcore Repos Location(https://github.com/TinxG/Calcore)  
   
-## 2/Introduction
+## Introduction
 It is a Calculator Core called Calcore.  
 Have Idea from the Principle Of Compiler  
 ### LexAnalysis
@@ -41,7 +41,7 @@ if incorrect,report.
 Calculate from the tokens  
 print the result  
 
-## 3/Builds
+## Builds
 ### Build 1
 Build on 2019/8/19  
 finish LexAnalysis part  
