@@ -1,8 +1,8 @@
 # Calcore (Not Finish)
 - ENGLISH
-  - [License](##1/License-ENGLISH)
-    - [You Can](###you-can:)
-    - [You Can't](###you-can't:)
+  - [License](##1/license-english)
+    - [You Can](###you-can)
+    - [You Can't](###you-cannot)
   - [Introduction](##2/introduction)
     - [LA](###lexanalysis)
     - [Check Tokens](###invalid-tokens-to-calc-report)
@@ -16,14 +16,14 @@
 ## 1/License ENGLISH
 Apache License 2.0  
 For more information,please see LICENSE.
-### You can:
+### You can
   See Code  
   Run Code  
   Clone  
   Change(Declare your change)  
   Change-And-Open-Source(With Apache License 2.0)  
   Change-And-Close-Source(With Apache License 2.0)  
-### You can't:
+### You cannot
   Open or Close Source Without AL 2.0  
   publish Without Copyright Clarify:original source copyright belongs to TinxG and other author(contributor)  
   publish Without Calcore Repos Location(https://github.com/TinxG/Calcore)  
